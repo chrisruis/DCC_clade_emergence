@@ -18,3 +18,20 @@ DCC1_phylogeography_sample1.xml - asymmetric phylogeography with over-represente
 mutational_spectra - counts of context-specific mutations used in mutational spectrum analyses. non_DCC_internal_spectrum.csv is the mutation counts for the non-DCC internal branches. DCC_internal_spectrum.csv is the mutation counts for the DCC internal branches. within_CF_patient_spectrum.csv is the mutation counts for within CF patient mutations
 
 sequence_metadata.xlsx contains metadata for all sequences included in the study
+
+The scripts in the scripts folder are:
+mutationalSpectrum.v1.py - used to reconstruct the mutational spectrum from a PAML rst file
+
+combineMutationalSpectra.R - combines multiple mutational spectra into a single spectrum
+
+bootstrapMutationSpectrum.R - calculates the significance of differences in mutational spectra using a permutation test
+
+plotSpectrum.R - plots a mutational spectrum
+
+plotMCCTrees.R - plots a MCC tree coloured by inferred location
+
+mapDCCMigrationsMap.R - plots supported DCC migration rates on a world map
+
+plotTransmissionNetwork.R - plots a transmission network at a given SNP cutoff
+
+extractPopulationIncrease.py - used to extract the dates of increases in relative genetic diversity from a posterior distribution of trees
