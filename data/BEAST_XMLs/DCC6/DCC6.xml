@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><beast beautitemplate='Standard' beautistatus='' namespace="beast.core:beast.evolution.alignment:beast.evolution.tree.coalescent:beast.core.util:beast.evolution.nuc:beast.evolution.operators:beast.evolution.sitemodel:beast.evolution.substitutionmodel:beast.evolution.likelihood" required="" version="2.4">
+
+
+    <data
+id="cluster9"
+name="alignment">
+                        <sequence id="seq_10208_3#3_Europe_UK_2011.0301369863" taxon="10208_3#3_Europe_UK_2011.0301369863" totalcount="4" value="ATAGAACGGGTCCCCGTAGCATCCGCAGGTTGAAGACCGCAGTACGAGGCGCTGTAACCACTGGAAAGGGCTACGTCGAGCGTTGGCCGCGCTTGGGCAGCGCAGGGAGGGCGGACTTCATGCTGCTGTCGGGTGCGCCTGGGCCCCAGCCCCCGGCCAGTGCAGACAAATTGACGACCGCCGGCGCCACAGCCCCCCGTCAGGCGCCGGGGGGTATGGAGTTTACCGAGCCAACCGCGAGCCGTCCTAGGATTCGTTAAGTCTTGAATACCTAGCCTGGCGGGAGTGAGGTCGCCCCCTAGTTGTCTAACTTGCGCAACTCCTTCCGCTG"/>
+                        <sequence id="seq_10625_5#27_Europe_UK_2012.33606557377" taxon="10625_5#27_Europe_UK_2012.33606557377" totalcount="4" value="ATAGAACGGGTCCCCGTAGCATCCGCAGGTTGAAGACCGCAGTACGAGGCACTGTAACCACTGGAAAGGGCTACGTCGAGCGTTGGCCGCGCTTGGGCAGCGCAGGGAGGGCGGACTTCATGCTGCCGTCGGGTGCGCCTGGGCCCCAGCCCCCGGCCAGTGCAGACAAATTGACGACCGCCGGCGCCACAGCCCCCCGTCAGGCGCCGGGGGGTATCGAGTTTACCGAGCCAACCGCGAGCCGTCCTAGGATTCGTTAAGTCTTGAATACCTAGCCTGGCGGGAGTGAGGTCGCCCCCTAGTTGTCTAACTTGCGCAACTCCTTCCGCTG"/>
+                        <sequence id="seq_10625_5#29_Europe_UK_2012.02459016393" taxon="10625_5#29_Europe_UK_2012.02459016393" totalcount="4" value="ATAGAACGGGTCCCCGTAGCATCCGCAGGTTGAAGACCGCAGTACGAGGCACTGTAACCACTGGAAAGGGCTACGTCGAGCGTTGGCCGCGCTTGGGCAGCGCAGGGAGGGCGGACTTCATGCTGCCGTCGGGTGCGCCTGGGCCCCAGCCCCCGGCCAGTGCAGACAAATTGACGACCGCCGGCGCCACAGCCCCCCGTCAGGCGCCGGGGGGTATCGAGTTTACCGAGCCAACCGCGAGCCGTCCTAGGATTCGTTAAGTCTTGAATACCTAGCCTGGCGGGAGTGAGGTCGCCCCCTAGTTGTCTAACTTGCGCAACTCCTTCCGCTG"/>
+                        <sequence id="seq_10625_5#30_Europe_UK_2012.41530054645" taxon="10625_5#30_Europe_UK_2012.41530054645" totalcount="4" value="ATAGAACGGGTCCCCGTAGCATCCGCAGGTTGAAGACCGCAGTACGAGGCGCTGTAACCACTGGAAAGGGCTACGTCGAGCGTTGGCCGCGCTTGGGC-GCGCAGGGAGGGCGGACTTCATGCTGCTGTCGGGTGCGCCTGGGCCCCAGCCCCCGGCCAGTGCAGACAAATTGACGACCGCCGGCGCCACAGCCCCCCGTCAGGCGCCGGGGGGTATCGAGTTTACCGAGCCAACCGCGAGCCGTCCTAGGATTCGTTAAGTCTTGAATACCTAGCCTGGCGGGAGTGAGGTCGCCCCCTAGTTGTCTAACTTGCGCAACTCCTTCCGCTG"/>
+                        <sequence id="seq_ERR3198397_Europe_UK_2008.7650273224" taxon="ERR3198397_Europe_UK_2008.7650273224" totalcount="4" value="CTGGAGCGGATCCCC-TAGCATCCGCGGGTCGAAGACCGCAGCACGAGGCGATGTAAACACCGGAAATTGCCGCGGCAGGCGTTGGCCTCATTTGGGCAGCGAAGGGAGGGCGAACCTCGTGTAACCGTCGGGTTCGCCTGGGTGCCAGCCCCCTCCCGGCGAGGACAAACGGACGACCGCTAACGTTACAGCCCCCCGTGAGCCGCCGACGGGTATCGAGTTGGCCGAGCCAACCGGAAGCCGTCCCGGGGCCAGTCAAATTTTAAATACCTAGCCCGGCGGGAGTGAGGTCTCGCACTCGTTGTCTAACGTGGGCAACTCCTTCCGCTG"/>
+                        <sequence id="seq_M154_Asia_Malaysia_2010.5" taxon="M154_Asia_Malaysia_2010.5" totalcount="4" value="CTGGAGCGGATCCCCGTAGCATCCGCATGTTGAA-CGCACAGTGCGAG------TAACCACTGGAA-TTGTTGCGTCAAGTATTGGCCGTGTTTGCACAGCGCAGGGAGGGCGAACCTCGTGTTACCGTCGGGTGCGTTTGGGTGCCAGCCCCCGGCCGGCTCAGGCAAACGGATGACCGCCGGCGCCATAACTTCCCTTCAGCCGCCAG----TATCGAGTTGGCCGGGCCC-CCGCAAGCCGTCCTGGGACCAGTCAAGTCCTAAATCCCTAGCGCGGCGGCGGTCACGTCGCCCCCTAGTTGTCTAGCGTAGGCAACTCCTTCAGCTG"/>
+                        <sequence id="seq_M172_Asia_Malaysia_2010.5" taxon="M172_Asia_Malaysia_2010.5" totalcount="4" value="CTGGAGGGCATCCCCGTAGCATACGCAGGTTGAAAACTGCGGTAGGGAGGGCTTCGACC-ATGCAACTTACTGCGTGAAGCGTTGGTTGCGTCTG--ACGTTCCGACGGGACGGGGCTCGCGTTGCCACTCGGGGCGCCCTGGTCCCAGCCCCCGGCGGCCGCAGACAAACGGACCACCACCGGCGCCGCAGTCCGCTGCCAGCCGCGGGCGGGTACCGATCTTGCTGAGGC-CACACAAGCCGTCTTGTGACCACTCGGGCCTTAAAAACCCATCCCGGCGGGAGTGAGGTCGCCCCCTAGTTGTCTAATGCGGAAAGCGCCTTCCGATG"/>
+                        <sequence id="seq_NQPA01_Asia_China_2013.9397260274" taxon="NQPA01_Asia_China_2013.9397260274" totalcount="4" value="CTGGAGCGGATTTT-GTAGTATCCTTAGATTAAAGACCGCGGTACGGGGCGCTGCGCCAACTCGAAATTACTGCGTCAAACGTTAGCCGCGTCTACACCTTGCCGAGGGGACGGGCCTTGTGTTGCCATTCCGGGCTCCTGGTTCCCAGCCCCTGGCCGGCGCAGACAAACGGCCGGCTGCCGGCGCCGCGGCCCCCCGCCAACTGCCGGCGGATACCGAGTCTGCCGAGCCAACCACACGCCGTTTTGGGACCACTCGGGCCTTAAATACCCGGTCCGGCGGGAGTGAGGTCGGCCCCAAGTTGTATAACGCGGGAAGCGCGTTCCGCTG"/>
+                        <sequence id="seq_NQPC01_Asia_China_2012.96174863388" taxon="NQPC01_Asia_China_2012.96174863388" totalcount="4" value="CTGGAGCGGATCCCCGTAGTATCCTTAGATTGAAGACCGCGGTACGGGGCGCTGCGCCAACTCGAAATTACTGCATCAAACGTTGGCCGCGTCTGCACCGTGCCGAGGGGACGGGCCTTGTGTTGCCATTCCGGGCTCCTGGTTCCCAGCCATTGGCCGGCGCAGACAAACGGCCGACCGCCGGAGCCGCGGCCCCCCGCCAACTGCCGGCGGGTACCGAGTCTGCCGAGCCAACCACACGCCGTTTTGGGACCACTCGGGCCTTAAATACCCGGCCCGGCGAGAGTGAGGTCGGCCCCAAGTTGCATAACGCGGGAGGCGCGTTCCGCTG"/>
+                        <sequence id="seq_NQPD01_Asia_China_2014.09315068493" taxon="NQPD01_Asia_China_2014.09315068493" totalcount="4" value="CTGGAGCGGATCCCCGTAGTATCTTTAGATTGGAGACCGCGGTACGGGGCGCTGCGCCAACTCGAAATTACTGTGTCAAACGTTGGCCGCGTCTGCACCGTGCCGAGGAGATGGGCCTTGTGTTGTCATTCCGGGCTCCTGGTTCCCAGCCCCTGGCCGGCGCAGACAAACGGCCGAGCGCCGGCTCCGCGGCCCCCCGCCAACTATCGGCGGGTACCGAGTCTGCCGAGCCAACCACACGCCGTTTTGGGACCACTCGGGCCTTAAATACGCGGCCCGGAGGGAGTGAGGGCGGCCCCAAGTTGTATAACGCGGGAAGCGCGTTCCGCTG"/>
+                        <sequence id="seq_NQPE01_Asia_China_2012.75683060109" taxon="NQPE01_Asia_China_2012.75683060109" totalcount="4" value="CTGGAGCGGATCCCCGTAGTATCCTTAGATTAAAGACCGCGGTACGGGGCGCTGCGCCAACTCGAAATTACTGCGTCAAACGTTAGCCGCGTCTACACCTTGCCGAGGGGACGGGCCTTGTGTTGCCATTCCGGGCTCCTGGTTCCCACCCCCTGGCCGGCGCAGACAAACGGCCGGCTGCCGGCGCCGCGGCCCCCCGCCAACTGCCGGCGGGTACCGAGTCTGCCGAGCCAACCACACTCCCTTTTGGGACCACTCGGGCCTTAAATACCCGGTCCGGCGGGAGTGAGGTCGGCCCCAAGTTGTATAACGCGGGAAGCGCGTTCCGCTG"/>
+                        <sequence id="seq_NQPO01_Asia_China_2013.60273972603" taxon="NQPO01_Asia_China_2013.60273972603" totalcount="4" value="CTGGAGCGGATCCCCGTAGCATCCGTAGGTTGAAGACCGCGGTACGGGGCGCTGCGCCAACTCGAAATTACTGCGTCAAACGTTGGCCGCGTCTGCACCGTGCCGAGGGGACGGGCCATGTGTTGCCATTCGGGGCTCCTGGGTCAGGCCCCCTGGCCGGCGCAGACAAACGGCCGACCGCCGGCGCCGCGGCCCCACGCCGGCTGCCGGCGGGTACCGAGTCTGTCGAGCCAACCACACGCC-CTTTGGGACCACCCGGGCCTTAAATACCCGGCCCGGCGGGAGTGAGGTCGCCCCTAAGCGATATAACGCGGGAAGCGCGTTCCCCTG"/>
+                        <sequence id="seq_NQPR01_Asia_China_2012.44535519126" taxon="NQPR01_Asia_China_2012.44535519126" totalcount="4" value="CTGGAGCGGATCCCCGTAGTATCCTTAGATTAAAGACCGCGGTACGGGGCGCTGCGCCAACTCGAAATTACTGCGTCAAACGTTGGCCGCGTCTGCACCTTGCCGAGGGGACGGGCCTTGTGTTGCCATTCCGGGCTCCTGGTTCCCAGCCCCTGGCCGGCGCAGACAAACGGCCGGCTGCCGGCGCCGCGGCCCCCCGCCAACTGCCGGCGGGTACCGAGTCTGCCGAGCCAACCACACGCCGTTTTGGGACCACTCGGGCCTTAAATATCCGGTCCGGCGGGAGTGAGGTCGGCCCCAAGTTGTATAACGCGGGAAGCGCGTTCCGCTG"/>
+                        <sequence id="seq_NQPT01_Asia_China_2015.22191780822" taxon="NQPT01_Asia_China_2015.22191780822" totalcount="4" value="CTGGGGCAGATCCCGATAGCTCCCGTAGGTTGAAGACCGCGGTACGGGCCGCTGCGCCAACTCGAAATTACTGCGTCAAACGTTGGCCGCGTCAGCACCGTGCCGAGGGGACGGGCCTTGTGTTGCCATTCCGGGCTCCTGGTTCCCAGCCCCTGGCCGGCGCAAACAAACGCCCGACCGCCGGCGCCGCGGCCCCCCGCCAACTGCCGGCATATACCGAGTCTGCCGAGCCAACCACACGCCGTTTTGGGACCACTCGGGCCTTAAATACCCGGCCCAGCGGGAGTGAGGTCGCCCCCAAGTTGTATAACGCGGGAAGCGTGTTCCGCTA"/>
+                        <sequence id="seq_NQPW01_Asia_China_2015.26575342466" taxon="NQPW01_Asia_China_2015.26575342466" totalcount="4" value="CTGGAGCGGATCCCCGTAATATCCTTAGATTGAAGACCGCGGTACGGGGCGCAGCGCCAACTCGAAATTACTGCGTCAAACGTTGGCCGCGTCTGCACCGTGCCGAGGGGACGGGCCTTGTGTTGCCATTCCGGGCTCCTGGTTCCCAGGTCCTGGCCGGCGCAGACAAACGGCCGACCGCCGGCGCCGCGGCCCCCCGCCAACTGCCGGCGGGTCCCGAGTCTGCCGAGCCAACTACACGCCG-TTTGGGACCACTCGGGCCTTAAATACCCGGCCCGGCGGGAGTGCGGTCGGCCCCAAGTTGTATAACGCGGGAAGCGCGTTCCGCTG"/>
+                        <sequence id="seq_NQQF01_Asia_China_2014.3698630137" taxon="NQQF01_Asia_China_2014.3698630137" totalcount="4" value="CTGGAGCGGATCCCCGTAGTATCCTTAGATTAAAGACCGCGGTACGGGGCGCTGCGCCAACTCGAAATTACTGCGTCAAACGTTAGCCGCGTCTGCACCTTGCCGAGGGGACGGGCCTTGTGTTGCCATTCCGGGCTCCTGGTTCCCA---CCTGGCCGGCGCAGACAAACGGCCGGCTGCCGGCGCCGCGGCCCCCCGCCAACTGCCGGCGGGTACCGAGTCTGCCGAGCCAACCACACTTTGTTTTGGGACCACTCGGGCCTTAAATACCCGGTCCGGCGGGAATGAGGTCGGCCCCAAGTTGTATAACGCGGGAAGCGCGTTCCGCTG"/>
+                        <sequence id="seq_NREJ01_Asia_China_2012.45628415301" taxon="NREJ01_Asia_China_2012.45628415301" totalcount="4" value="CTGGAGCGGATCCCCGTAGTATCCTTAGATTAAAGACCGCGGTACGGGGCGCTGCGCCAACTCGAAATTACTGCGTCAAACGTTGGCCGCGTCTGCACCTTGCCGAGGGGACGGGCCTTGTGTTGCCATTCCGGGCTCCTGGTTCCCAGCCCCTGGCCGGCGCAGACAAACGGCCGGCTGCCGGCGCCGCGGCCCCCCGCCAACTGCCGGCGGGTACCGAGTCTGCCGAGCCAACCACACGCCGTTTTGGGACCACTCGGGCCTTAAATA-CCGGTCCGGCGGGAGTGAGGTCGGCCCCAAGTTGTATAACGCGGGAAGCGCGTTCCGCTG"/>
+                        <sequence id="seq_SRR6871404_Oceania_Australia_2015.12465753425" taxon="SRR6871404_Oceania_Australia_2015.12465753425" totalcount="4" value="CTGCAGCGGACCCCCGGAGCATCCGCAGGTTGACGACCGTAATACGAGGCGCTGTAACCTCTGGAGATTGCTGCGTCAAGCGGTGACCGCGTTTGGGCAGCGCAAGGAGGGCAGACCTCGTGTTGCCGTCGGGTGCGCCTGCGTCCCAGCCCCCGGTCGGCGCAGAAGTGCGGACGACCGGCGGCGCCGCAGCCCCCCGTCAGCCGCCGGCGGGCACCTTGTTTGCCGAACGAACCGCAAGCCGTCCTGGGACCAGTCAGGTCTGAGCTACCTAGCCCGGCGGGAGCG--GTCGCCTCCTAGTTGTCACACGTGGGCAAATCCTTCCGCCG"/>
+                        <sequence id="seq_SRR7800463_NorthAmerica_USA_2014.43561643836" taxon="SRR7800463_NorthAmerica_USA_2014.43561643836" totalcount="4" value="CCGGAGCGGATCCCCGTGGCATCCGCAGGCTGAAGACCGCAGTACCAGGCGCTGTAACCACTGGGAATTGCTGCGTCAAGCGTCGGCCGCGTTTGGG-AGCGCAGGGAGAGCGGACCTCGTATTGCCGTCGGATGTGCCTGGGTCCCAGCCCCCGGCCGGCGCAGAC--ACGGACGACCGCCGGCGCCGCAGCCCCCCGTCAGCCGCCGGCGGGTACCGAGTTTGCCAAGCCAACCGCAAGCCGTCCTGGAACCAGTCAGGTCTTAAATACCTAGCCCGACAGGAGTGAGATGGCCCCCTATCGGTCTAACGTGGGCAACTCCCCTCGCTG"/>
+                    </data>
+
+
+    
+
+
+    
+
+
+    
+<map name="Uniform" >beast.math.distributions.Uniform</map>
+<map name="Exponential" >beast.math.distributions.Exponential</map>
+<map name="LogNormal" >beast.math.distributions.LogNormalDistributionModel</map>
+<map name="Normal" >beast.math.distributions.Normal</map>
+<map name="Beta" >beast.math.distributions.Beta</map>
+<map name="Gamma" >beast.math.distributions.Gamma</map>
+<map name="LaplaceDistribution" >beast.math.distributions.LaplaceDistribution</map>
+<map name="prior" >beast.math.distributions.Prior</map>
+<map name="InverseGamma" >beast.math.distributions.InverseGamma</map>
+<map name="OneOnX" >beast.math.distributions.OneOnX</map>
+
+
+<run id="mcmc" spec="MCMC" chainLength="100000000">
+    <state id="state" storeEvery="5000">
+        <tree id="Tree.t:cluster9" name="stateNode">
+            <trait id="dateTrait.t:cluster9" spec="beast.evolution.tree.TraitSet" traitname="date">
+                ERR3198397_Europe_UK_2008.7650273224=2008.7650273224,
+NQPT01_Asia_China_2015.22191780822=2015.22191780822,
+SRR7800463_NorthAmerica_USA_2014.43561643836=2014.43561643836,
+M154_Asia_Malaysia_2010.5=2010.5,
+M172_Asia_Malaysia_2010.5=2010.5,
+NQPD01_Asia_China_2014.09315068493=2014.09315068493,
+SRR6871404_Oceania_Australia_2015.12465753425=2015.12465753425,
+NQPO01_Asia_China_2013.60273972603=2013.60273972603,
+NQPR01_Asia_China_2012.44535519126=2012.44535519126,
+NQQF01_Asia_China_2014.3698630137=2014.3698630137,
+10625_5#29_Europe_UK_2012.02459016393=2012.02459016393,
+NQPA01_Asia_China_2013.9397260274=2013.9397260274,
+NQPC01_Asia_China_2012.96174863388=2012.96174863388,
+10625_5#27_Europe_UK_2012.33606557377=2012.33606557377,
+NQPE01_Asia_China_2012.75683060109=2012.75683060109,
+10208_3#3_Europe_UK_2011.0301369863=2011.0301369863,
+NQPW01_Asia_China_2015.26575342466=2015.26575342466,
+NREJ01_Asia_China_2012.45628415301=2012.45628415301,
+10625_5#30_Europe_UK_2012.41530054645=2012.41530054645                <taxa id="TaxonSet.cluster9" spec="TaxonSet">
+                    <alignment idref="cluster9"/>
+                </taxa>
+            </trait>
+            <taxonset idref="TaxonSet.cluster9"/>
+        </tree>
+        <parameter id="kappa.s:cluster9" lower="0.0" name="stateNode">2.0</parameter>
+        <parameter id="ucldMean.c:cluster9" name="stateNode">0.0025</parameter>
+        <parameter id="ucldStdev.c:cluster9" lower="0.0" name="stateNode">0.1</parameter>
+        <stateNode id="rateCategories.c:cluster9" spec="parameter.IntegerParameter" dimension="36">1</stateNode>
+        <parameter id="bPopSizes.t:cluster9" dimension="5" lower="0.0" name="stateNode" upper="380000.0">380.0</parameter>
+        <stateNode id="bGroupSizes.t:cluster9" spec="parameter.IntegerParameter" dimension="5">1</stateNode>
+        <parameter id="freqParameter.s:cluster9" dimension="4" lower="0.0" name="stateNode" upper="1.0">0.25</parameter>
+    </state>
+
+    <init id="RandomTree.t:cluster9" spec="beast.evolution.tree.RandomTree" estimate="false" initial="@Tree.t:cluster9" taxa="@cluster9">
+        <populationModel id="ConstantPopulation0.t:cluster9" spec="ConstantPopulation">
+            <parameter id="randomPopSize.t:cluster9" name="popSize">1.0</parameter>
+        </populationModel>
+    </init>
+
+    <distribution id="posterior" spec="util.CompoundDistribution">
+        <distribution id="prior" spec="util.CompoundDistribution">
+            <distribution id="BayesianSkyline.t:cluster9" spec="BayesianSkyline" groupSizes="@bGroupSizes.t:cluster9" popSizes="@bPopSizes.t:cluster9">
+                <treeIntervals id="BSPTreeIntervals.t:cluster9" spec="TreeIntervals" tree="@Tree.t:cluster9"/>
+            </distribution>
+            <distribution id="MarkovChainedPopSizes.t:cluster9" spec="beast.math.distributions.MarkovChainDistribution" jeffreys="true" parameter="@bPopSizes.t:cluster9"/>
+            <prior id="KappaPrior.s:cluster9" name="distribution" x="@kappa.s:cluster9">
+                <LogNormal id="LogNormalDistributionModel.0" name="distr">
+                    <parameter id="RealParameter.1" estimate="false" name="M">1.0</parameter>
+                    <parameter id="RealParameter.2" estimate="false" name="S">1.25</parameter>
+                </LogNormal>
+            </prior>
+            <prior id="MeanRatePrior.c:cluster9" name="distribution" x="@ucldMean.c:cluster9">
+                <Uniform id="Uniform.3" lower="0.0014" name="distr" upper="0.0037"/>
+            </prior>
+            <prior id="ucldStdevPrior.c:cluster9" name="distribution" x="@ucldStdev.c:cluster9">
+                <Gamma id="Gamma.0" name="distr">
+                    <parameter id="RealParameter.4" estimate="false" name="alpha">0.5396</parameter>
+                    <parameter id="RealParameter.5" estimate="false" name="beta">0.3819</parameter>
+                </Gamma>
+            </prior>
+        </distribution>
+        <distribution id="likelihood" spec="util.CompoundDistribution" useThreads="true">
+            <distribution id="treeLikelihood.cluster9" spec="ThreadedTreeLikelihood" data="@cluster9" tree="@Tree.t:cluster9">
+                <siteModel id="SiteModel.s:cluster9" spec="SiteModel">
+                    <parameter id="mutationRate.s:cluster9" estimate="false" name="mutationRate">1.0</parameter>
+                    <parameter id="gammaShape.s:cluster9" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:cluster9" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                    <substModel id="hky.s:cluster9" spec="HKY" kappa="@kappa.s:cluster9">
+                        <frequencies id="estimatedFreqs.s:cluster9" spec="Frequencies" frequencies="@freqParameter.s:cluster9"/>
+                    </substModel>
+                </siteModel>
+                <branchRateModel id="RelaxedClock.c:cluster9" spec="beast.evolution.branchratemodel.UCRelaxedClockModel" clock.rate="@ucldMean.c:cluster9" rateCategories="@rateCategories.c:cluster9" tree="@Tree.t:cluster9">
+                    <LogNormal id="LogNormalDistributionModel.c:cluster9" S="@ucldStdev.c:cluster9" meanInRealSpace="true" name="distr">
+                        <parameter id="RealParameter.3" estimate="false" lower="0.0" name="M" upper="1.0">1.0</parameter>
+                    </LogNormal>
+                </branchRateModel>
+            </distribution>
+        </distribution>
+    </distribution>
+
+    <operator id="KappaScaler.s:cluster9" spec="ScaleOperator" parameter="@kappa.s:cluster9" scaleFactor="0.5" weight="0.1"/>
+
+    <operator id="ucldMeanScaler.c:cluster9" spec="ScaleOperator" parameter="@ucldMean.c:cluster9" scaleFactor="0.5" weight="1.0"/>
+
+    <operator id="ucldStdevScaler.c:cluster9" spec="ScaleOperator" parameter="@ucldStdev.c:cluster9" scaleFactor="0.5" weight="3.0"/>
+
+    <operator id="CategoriesRandomWalk.c:cluster9" spec="IntRandomWalkOperator" parameter="@rateCategories.c:cluster9" weight="10.0" windowSize="1"/>
+
+    <operator id="CategoriesSwapOperator.c:cluster9" spec="SwapOperator" intparameter="@rateCategories.c:cluster9" weight="10.0"/>
+
+    <operator id="CategoriesUniform.c:cluster9" spec="UniformOperator" parameter="@rateCategories.c:cluster9" weight="10.0"/>
+
+    <operator id="relaxedUpDownOperator.c:cluster9" spec="UpDownOperator" scaleFactor="0.75" weight="3.0">
+        <up idref="ucldMean.c:cluster9"/>
+        <down idref="Tree.t:cluster9"/>
+    </operator>
+
+    <operator id="BayesianSkylineTreeScaler.t:cluster9" spec="ScaleOperator" scaleFactor="0.5" tree="@Tree.t:cluster9" weight="3.0"/>
+
+    <operator id="BayesianSkylineTreeRootScaler.t:cluster9" spec="ScaleOperator" rootOnly="true" scaleFactor="0.5" tree="@Tree.t:cluster9" weight="3.0"/>
+
+    <operator id="BayesianSkylineUniformOperator.t:cluster9" spec="Uniform" tree="@Tree.t:cluster9" weight="30.0"/>
+
+    <operator id="BayesianSkylineSubtreeSlide.t:cluster9" spec="SubtreeSlide" tree="@Tree.t:cluster9" weight="15.0"/>
+
+    <operator id="BayesianSkylineNarrow.t:cluster9" spec="Exchange" tree="@Tree.t:cluster9" weight="15.0"/>
+
+    <operator id="BayesianSkylineWide.t:cluster9" spec="Exchange" isNarrow="false" tree="@Tree.t:cluster9" weight="3.0"/>
+
+    <operator id="BayesianSkylineWilsonBalding.t:cluster9" spec="WilsonBalding" tree="@Tree.t:cluster9" weight="3.0"/>
+
+    <operator id="popSizesScaler.t:cluster9" spec="ScaleOperator" parameter="@bPopSizes.t:cluster9" scaleFactor="0.75" weight="15.0"/>
+
+    <operator id="groupSizesDelta.t:cluster9" spec="DeltaExchangeOperator" integer="true" weight="6.0">
+        <intparameter idref="bGroupSizes.t:cluster9"/>
+    </operator>
+
+    <operator id="FrequenciesExchanger.s:cluster9" spec="DeltaExchangeOperator" delta="0.01" weight="0.1">
+        <parameter idref="freqParameter.s:cluster9"/>
+    </operator>
+
+    <logger id="tracelog" fileName="cluster9.log" logEvery="10000" model="@posterior" sanitiseHeaders="true" sort="smart">
+        <log idref="posterior"/>
+        <log idref="likelihood"/>
+        <log idref="prior"/>
+        <log idref="treeLikelihood.cluster9"/>
+        <log id="TreeHeight.t:cluster9" spec="beast.evolution.tree.TreeHeightLogger" tree="@Tree.t:cluster9"/>
+        <log idref="kappa.s:cluster9"/>
+        <log idref="ucldMean.c:cluster9"/>
+        <log idref="ucldStdev.c:cluster9"/>
+        <log id="rate.c:cluster9" spec="beast.evolution.branchratemodel.RateStatistic" branchratemodel="@RelaxedClock.c:cluster9" tree="@Tree.t:cluster9"/>
+        <log idref="BayesianSkyline.t:cluster9"/>
+        <log idref="bPopSizes.t:cluster9"/>
+        <log idref="bGroupSizes.t:cluster9"/>
+        <log idref="freqParameter.s:cluster9"/>
+    </logger>
+
+    <logger id="screenlog" logEvery="10000">
+        <log idref="posterior"/>
+        <log id="ESS.0" spec="util.ESS" arg="@posterior"/>
+        <log idref="likelihood"/>
+        <log idref="prior"/>
+    </logger>
+
+    <logger id="treelog.t:cluster9" fileName="$(tree).trees" logEvery="10000" mode="tree">
+        <log id="TreeWithMetaDataLogger.t:cluster9" spec="beast.evolution.tree.TreeWithMetaDataLogger" branchratemodel="@RelaxedClock.c:cluster9" tree="@Tree.t:cluster9"/>
+    </logger>
+
+</run>
+
+</beast>

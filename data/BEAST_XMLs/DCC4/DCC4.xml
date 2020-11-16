@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><beast beautitemplate='Standard' beautistatus='' namespace="beast.core:beast.evolution.alignment:beast.evolution.tree.coalescent:beast.core.util:beast.evolution.nuc:beast.evolution.operators:beast.evolution.sitemodel:beast.evolution.substitutionmodel:beast.evolution.likelihood" required="" version="2.4">
+
+
+    <data
+id="cluster11"
+name="alignment">
+                        <sequence id="seq_10625_4#79_Europe_UK_2010.87671232877" taxon="10625_4#79_Europe_UK_2010.87671232877" totalcount="4" value="TCGGGGAGCCAGGGACGT-CCGCCAGGCCA-CA-TGC-CGCCCCACTCGGTTGGGGTCATCCCTTACCGCGGCGAGCTGGGCACCGCCTGCAAGTCTCGTCCCCGGTGGCCA---TCGATTAGATGAT-CCGCAC--CCTCCCGA-G-GGTACCGTTC--G-T-TCAGGT"/>
+                        <sequence id="seq_10665_4#49_Europe_UK_2006.50136986301" taxon="10665_4#49_Europe_UK_2006.50136986301" totalcount="4" value="TCGGGGAGCCAGGGACGT-CAGCCAGGCCA-CA-TGC-CGCCTCACTCGGTTGGGGTCATCCCTTACCGCGGCGAGCTGGGCACCGCCTGCA---CTCGTCCCCGGTG-CCA---TCGATTAGATGATACCGCAC--CCTCCCGA-G-GGTACCGTTC--G-T-TCAGGT"/>
+                        <sequence id="seq_12078_1#62_Europe_UK_2012.94808743169" taxon="12078_1#62_Europe_UK_2012.94808743169" totalcount="4" value="TCGGGGAGCCAGG-AC-T-CCGCCAGGCCA-CA-TGCCCGCCCCACTCGGTTGGGGTCATCCCTTACCGTGGCGAGCTGGGCACCGCCTGCA---CTCGTCCCCGGTGGCCA---CTGGCGGGATGATACCGCAC--CCTCCCGACGAGGTACCGTTC--G-TATCAGGT"/>
+                        <sequence id="seq_12082_5#69_Europe_UK_2012.75956284153" taxon="12082_5#69_Europe_UK_2012.75956284153" totalcount="4" value="TCGAGGAGCCAGGGACGT-CCGCCAGGCCA-CA-TGCCCGTCTCACTCGGTTGGGGTCATCCCTTACCGCGGGGAGCTGAGCACCGCCTGCAA--CTCGTCCCCGGTGGCCAA--TCGATTAGATGAT-CCGCAC--CCTCCCGA-G-GGTACCGTTC--G-T-TCAGGT"/>
+                        <sequence id="seq_12163_1#82_Europe_UK_2011.83561643836" taxon="12163_1#82_Europe_UK_2011.83561643836" totalcount="4" value="TCGGGGAGCCAGGGACGT-CCCCCAGGCCA-CG-TGCCCGCCTCACTCGGTTGGGGTCATCCCTTA-CGCGGCGAGCTGGGCACCGCCTGCAAGTCTCGTCCCCCGTCGCCA---TCGATTAGCTGATACCGCAC--CCTCCTGA---GGTACCGTTCG-G-T-TCAGGT"/>
+                        <sequence id="seq_12163_2#84_Europe_UK_2011.64657534247" taxon="12163_2#84_Europe_UK_2011.64657534247" totalcount="4" value="TCGGGGAGCCAGGGATGT-CCGGCCGGCCA-CA-TGC-CGCCTCACTCGGCTGGGGTTGTCCCTTATCGCGGCGAGCTGGGAACCCCCTACAAG-CTCATCCACGGCGGCCA---TCAATTAGATCATATCACAC--ATTTTCGA-G-GGTACCGTTC----T-TGACAT"/>
+                        <sequence id="seq_12163_2#87_Europe_UK_2012.92349726776" taxon="12163_2#87_Europe_UK_2012.92349726776" totalcount="4" value="TCGGGGAGCCAGGGACGTCCCGCCAGGCCA-CA-TGCCCGCCTCGTTCGGTTGGGATCACCCCTTATCACGACGTGCTAGGCCCCGCCTGCAAGTCTCGTCCCCGGCGT-CA---TCGATTACACGGTACCGCAC--CTTCCCGA-G-GGTACGGTTC---AT-TCAGGT"/>
+                        <sequence id="seq_ERR3198398_Europe_UK_2012.33606557377" taxon="ERR3198398_Europe_UK_2012.33606557377" totalcount="4" value="TCGGGGAGCCAGGGACGT-CCGC-AGGCCAGCA-TGCCCGCCCCACTCGGTATGGGTCATCCCTTA-CGCGGCGAGCTGGGCACCGCCTGCAA--CT-GTCCCCGGTGGCCA---TCGATTAGATGATACCGCAC--CCTCCCAACGA-GTACCGTTC--GATATCAGGT"/>
+                        <sequence id="seq_NQSD01_Asia_China_2013.57260273973" taxon="NQSD01_Asia_China_2013.57260273973" totalcount="4" value="CCGGGATGCCAGAGACGT-CCGCTAGATCGGCA-----CGCTTCACTACGTTGGAGTCGTCCCTTATCGCGGCGAGCTGGACAGCGCCTAGGG--CTCGTCCCCGGCGGCCA--CTCAATTAGATCATATCGCGTTTCTTTTCGACTGGGTACCGTTCTCCGTGTGACGT"/>
+                        <sequence id="seq_NQSE01_Asia_China_2012.49726775956" taxon="NQSE01_Asia_China_2012.49726775956" totalcount="4" value="TCGGGGAGCCAGAGACGT-CCGCCAGACCACCACATG-CGCCTCACTCGGTTGGAGTCGTCCCTTATCGCGGCGAGCTGGGCACCGCATACA-GTCCCGTCCCCGGCGGCCA--CTCAATTAGATCACATCGCATTTCTTTTCGGCTAGGTACCGTCT--G---TGACGT"/>
+                        <sequence id="seq_NQSF01_Asia_China_2015.24931506849" taxon="NQSF01_Asia_China_2015.24931506849" totalcount="4" value="TCGGCGAATTGGGGACGTCCCGCCAGGCCAGTACTGCTCACCTCACTCGGTTGGGGTCATCTCTTATAGCAACGTGCTGGGCACCGCCCGCA---CTCGTCACCGGCGGCTA--CTCGATTACACGGTACGGCACCTCTTCCCGA--A---ACCTTTCTCC-T-TCGGGT"/>
+                        <sequence id="seq_NQSG01_Asia_China_2015.25205479452" taxon="NQSG01_Asia_China_2015.25205479452" totalcount="4" value="TCGGCGAATTGGGGACGTCCCGCCAGGCCAGTAT----CACCTCACTCGGTTGGGGTCATCTCTTATAGCAACGTGCTGGGCACCGCCCGCAAGTCTCGTCACCGGCGGCTA--CTCGATTACACGGTACGGCACTGCTTCCCGA-GGTCCACCTTTCTCC-T-TCGGGC"/>
+                        <sequence id="seq_NQSH01_Asia_China_2015.38904109589" taxon="NQSH01_Asia_China_2015.38904109589" totalcount="4" value="TCGGGGAGCCAGGGACGT-TCGCCAAACCAGCACC--TGGCCTCACTCGGTTGGGGTCGTCCATTATCGCGGCGAGCTGGGCACCGCCTACA---TTTGTTCCCGGCGGCCAGCATCAATTAGATCATATCGCACCGCTCTTCGAGTAGGTGCCGTTC-TCA-GTGACGT"/>
+                        <sequence id="seq_NQSU01_Asia_China_2012.43715846995" taxon="NQSU01_Asia_China_2012.43715846995" totalcount="4" value="TCGGGGAGTCACGGGCCTCCCGCCAGGCCAGCA-----CGCCTTACTCGGTTGGGGTCATCCCACATCGCAACGTGACGGGCACGGCCTGCA-GTCTCGTCCCGGGCGGACA--CTCGATTACACGGTGCGGCACTTCTTCCCGAGTGGGTACCTCTCGCGGC-TCAGGC"/>
+                        <sequence id="seq_SRR7800410_NorthAmerica_USA_2016.79781420765" taxon="SRR7800410_NorthAmerica_USA_2016.79781420765" totalcount="4" value="TCAGGGAGCCAGGGACGT--CGCCAGGCCAGCA-T-C-CG-CTCACCCGGTTGGGGTCGTTCCTTC-CGCGGCGAACTGGGCACCGTCTACA-ACCTCGTCCACGGCGGCC-G--TCAATTAGATCATA-CGCAC--CTTTTCGACGAGGTAACG-TC----T-CGACGT"/>
+                        <sequence id="seq_SRR7800482_NorthAmerica_USA_2015.80273972603" taxon="SRR7800482_NorthAmerica_USA_2015.80273972603" totalcount="4" value="TAGGGGAGTCAGGAACGCTCCGCCAGGCGAGCA-TGCCCGCCTCACTCGATTGCGGCCATCCCTTATCGCAACTTGCTGGGCACCGCCTGCA-ACCTCGCCCCCGACGGCCC-TCTCGATTACACGGTACGGTAC--CTTCCCGACGAGGTACCTTTC----T-TCAGGT"/>
+                    </data>
+
+
+    
+
+
+    
+
+
+    
+<map name="Uniform" >beast.math.distributions.Uniform</map>
+<map name="Exponential" >beast.math.distributions.Exponential</map>
+<map name="LogNormal" >beast.math.distributions.LogNormalDistributionModel</map>
+<map name="Normal" >beast.math.distributions.Normal</map>
+<map name="Beta" >beast.math.distributions.Beta</map>
+<map name="Gamma" >beast.math.distributions.Gamma</map>
+<map name="LaplaceDistribution" >beast.math.distributions.LaplaceDistribution</map>
+<map name="prior" >beast.math.distributions.Prior</map>
+<map name="InverseGamma" >beast.math.distributions.InverseGamma</map>
+<map name="OneOnX" >beast.math.distributions.OneOnX</map>
+
+
+<run id="mcmc" spec="MCMC" chainLength="100000000">
+    <state id="state" storeEvery="5000">
+        <tree id="Tree.t:cluster11" name="stateNode">
+            <trait id="dateTrait.t:cluster11" spec="beast.evolution.tree.TraitSet" traitname="date">
+                ERR3198398_Europe_UK_2012.33606557377=2012.33606557377,
+NQSH01_Asia_China_2015.38904109589=2015.38904109589,
+NQSG01_Asia_China_2015.25205479452=2015.25205479452,
+NQSD01_Asia_China_2013.57260273973=2013.57260273973,
+12078_1#62_Europe_UK_2012.94808743169=2012.94808743169,
+SRR7800410_NorthAmerica_USA_2016.79781420765=2016.79781420765,
+12163_2#87_Europe_UK_2012.92349726776=2012.92349726776,
+NQSF01_Asia_China_2015.24931506849=2015.24931506849,
+10665_4#49_Europe_UK_2006.50136986301=2006.50136986301,
+NQSU01_Asia_China_2012.43715846995=2012.43715846995,
+10625_4#79_Europe_UK_2010.87671232877=2010.87671232877,
+12163_2#84_Europe_UK_2011.64657534247=2011.64657534247,
+12163_1#82_Europe_UK_2011.83561643836=2011.83561643836,
+SRR7800482_NorthAmerica_USA_2015.80273972603=2015.80273972603,
+NQSE01_Asia_China_2012.49726775956=2012.49726775956,
+12082_5#69_Europe_UK_2012.75956284153=2012.75956284153                <taxa id="TaxonSet.cluster11" spec="TaxonSet">
+                    <alignment idref="cluster11"/>
+                </taxa>
+            </trait>
+            <taxonset idref="TaxonSet.cluster11"/>
+        </tree>
+        <parameter id="kappa.s:cluster11" lower="0.0" name="stateNode">2.0</parameter>
+        <parameter id="ucldMean.c:cluster11" name="stateNode">0.015</parameter>
+        <parameter id="ucldStdev.c:cluster11" lower="0.0" name="stateNode">0.1</parameter>
+        <stateNode id="rateCategories.c:cluster11" spec="parameter.IntegerParameter" dimension="30">1</stateNode>
+        <parameter id="bPopSizes.t:cluster11" dimension="5" lower="0.0" name="stateNode" upper="380000.0">380.0</parameter>
+        <stateNode id="bGroupSizes.t:cluster11" spec="parameter.IntegerParameter" dimension="5">1</stateNode>
+        <parameter id="freqParameter.s:cluster11" dimension="4" lower="0.0" name="stateNode" upper="1.0">0.25</parameter>
+    </state>
+
+    <init id="RandomTree.t:cluster11" spec="beast.evolution.tree.RandomTree" estimate="false" initial="@Tree.t:cluster11" taxa="@cluster11">
+        <populationModel id="ConstantPopulation0.t:cluster11" spec="ConstantPopulation">
+            <parameter id="randomPopSize.t:cluster11" name="popSize">1.0</parameter>
+        </populationModel>
+    </init>
+
+    <distribution id="posterior" spec="util.CompoundDistribution">
+        <distribution id="prior" spec="util.CompoundDistribution">
+            <distribution id="BayesianSkyline.t:cluster11" spec="BayesianSkyline" groupSizes="@bGroupSizes.t:cluster11" popSizes="@bPopSizes.t:cluster11">
+                <treeIntervals id="BSPTreeIntervals.t:cluster11" spec="TreeIntervals" tree="@Tree.t:cluster11"/>
+            </distribution>
+            <distribution id="MarkovChainedPopSizes.t:cluster11" spec="beast.math.distributions.MarkovChainDistribution" jeffreys="true" parameter="@bPopSizes.t:cluster11"/>
+            <prior id="KappaPrior.s:cluster11" name="distribution" x="@kappa.s:cluster11">
+                <LogNormal id="LogNormalDistributionModel.0" name="distr">
+                    <parameter id="RealParameter.1" estimate="false" name="M">1.0</parameter>
+                    <parameter id="RealParameter.2" estimate="false" name="S">1.25</parameter>
+                </LogNormal>
+            </prior>
+            <prior id="MeanRatePrior.c:cluster11" name="distribution" x="@ucldMean.c:cluster11">
+                <LogNormal id="LogNormalDistributionModel.1" meanInRealSpace="true" name="distr">
+                    <parameter id="RealParameter.6" estimate="false" name="M">0.015</parameter>
+                    <parameter id="RealParameter.7" estimate="false" lower="0.0" name="S" upper="5.0">0.5</parameter>
+                </LogNormal>
+            </prior>
+            <prior id="ucldStdevPrior.c:cluster11" name="distribution" x="@ucldStdev.c:cluster11">
+                <Gamma id="Gamma.0" name="distr">
+                    <parameter id="RealParameter.4" estimate="false" name="alpha">0.5396</parameter>
+                    <parameter id="RealParameter.5" estimate="false" name="beta">0.3819</parameter>
+                </Gamma>
+            </prior>
+        </distribution>
+        <distribution id="likelihood" spec="util.CompoundDistribution" useThreads="true">
+            <distribution id="treeLikelihood.cluster11" spec="ThreadedTreeLikelihood" data="@cluster11" tree="@Tree.t:cluster11">
+                <siteModel id="SiteModel.s:cluster11" spec="SiteModel">
+                    <parameter id="mutationRate.s:cluster11" estimate="false" name="mutationRate">1.0</parameter>
+                    <parameter id="gammaShape.s:cluster11" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:cluster11" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                    <substModel id="hky.s:cluster11" spec="HKY" kappa="@kappa.s:cluster11">
+                        <frequencies id="estimatedFreqs.s:cluster11" spec="Frequencies" frequencies="@freqParameter.s:cluster11"/>
+                    </substModel>
+                </siteModel>
+                <branchRateModel id="RelaxedClock.c:cluster11" spec="beast.evolution.branchratemodel.UCRelaxedClockModel" clock.rate="@ucldMean.c:cluster11" rateCategories="@rateCategories.c:cluster11" tree="@Tree.t:cluster11">
+                    <LogNormal id="LogNormalDistributionModel.c:cluster11" S="@ucldStdev.c:cluster11" meanInRealSpace="true" name="distr">
+                        <parameter id="RealParameter.3" estimate="false" lower="0.0" name="M" upper="1.0">1.0</parameter>
+                    </LogNormal>
+                </branchRateModel>
+            </distribution>
+        </distribution>
+    </distribution>
+
+    <operator id="KappaScaler.s:cluster11" spec="ScaleOperator" parameter="@kappa.s:cluster11" scaleFactor="0.5" weight="0.1"/>
+
+    <operator id="ucldMeanScaler.c:cluster11" spec="ScaleOperator" parameter="@ucldMean.c:cluster11" scaleFactor="0.5" weight="1.0"/>
+
+    <operator id="ucldStdevScaler.c:cluster11" spec="ScaleOperator" parameter="@ucldStdev.c:cluster11" scaleFactor="0.5" weight="3.0"/>
+
+    <operator id="CategoriesRandomWalk.c:cluster11" spec="IntRandomWalkOperator" parameter="@rateCategories.c:cluster11" weight="10.0" windowSize="1"/>
+
+    <operator id="CategoriesSwapOperator.c:cluster11" spec="SwapOperator" intparameter="@rateCategories.c:cluster11" weight="10.0"/>
+
+    <operator id="CategoriesUniform.c:cluster11" spec="UniformOperator" parameter="@rateCategories.c:cluster11" weight="10.0"/>
+
+    <operator id="relaxedUpDownOperator.c:cluster11" spec="UpDownOperator" scaleFactor="0.75" weight="3.0">
+        <up idref="ucldMean.c:cluster11"/>
+        <down idref="Tree.t:cluster11"/>
+    </operator>
+
+    <operator id="BayesianSkylineTreeScaler.t:cluster11" spec="ScaleOperator" scaleFactor="0.5" tree="@Tree.t:cluster11" weight="3.0"/>
+
+    <operator id="BayesianSkylineTreeRootScaler.t:cluster11" spec="ScaleOperator" rootOnly="true" scaleFactor="0.5" tree="@Tree.t:cluster11" weight="3.0"/>
+
+    <operator id="BayesianSkylineUniformOperator.t:cluster11" spec="Uniform" tree="@Tree.t:cluster11" weight="30.0"/>
+
+    <operator id="BayesianSkylineSubtreeSlide.t:cluster11" spec="SubtreeSlide" tree="@Tree.t:cluster11" weight="15.0"/>
+
+    <operator id="BayesianSkylineNarrow.t:cluster11" spec="Exchange" tree="@Tree.t:cluster11" weight="15.0"/>
+
+    <operator id="BayesianSkylineWide.t:cluster11" spec="Exchange" isNarrow="false" tree="@Tree.t:cluster11" weight="3.0"/>
+
+    <operator id="BayesianSkylineWilsonBalding.t:cluster11" spec="WilsonBalding" tree="@Tree.t:cluster11" weight="3.0"/>
+
+    <operator id="popSizesScaler.t:cluster11" spec="ScaleOperator" parameter="@bPopSizes.t:cluster11" scaleFactor="0.75" weight="15.0"/>
+
+    <operator id="groupSizesDelta.t:cluster11" spec="DeltaExchangeOperator" integer="true" weight="6.0">
+        <intparameter idref="bGroupSizes.t:cluster11"/>
+    </operator>
+
+    <operator id="FrequenciesExchanger.s:cluster11" spec="DeltaExchangeOperator" delta="0.01" weight="0.1">
+        <parameter idref="freqParameter.s:cluster11"/>
+    </operator>
+
+    <logger id="tracelog" fileName="cluster11.log" logEvery="10000" model="@posterior" sanitiseHeaders="true" sort="smart">
+        <log idref="posterior"/>
+        <log idref="likelihood"/>
+        <log idref="prior"/>
+        <log idref="treeLikelihood.cluster11"/>
+        <log id="TreeHeight.t:cluster11" spec="beast.evolution.tree.TreeHeightLogger" tree="@Tree.t:cluster11"/>
+        <log idref="kappa.s:cluster11"/>
+        <log idref="ucldMean.c:cluster11"/>
+        <log idref="ucldStdev.c:cluster11"/>
+        <log id="rate.c:cluster11" spec="beast.evolution.branchratemodel.RateStatistic" branchratemodel="@RelaxedClock.c:cluster11" tree="@Tree.t:cluster11"/>
+        <log idref="BayesianSkyline.t:cluster11"/>
+        <log idref="bPopSizes.t:cluster11"/>
+        <log idref="bGroupSizes.t:cluster11"/>
+        <log idref="freqParameter.s:cluster11"/>
+    </logger>
+
+    <logger id="screenlog" logEvery="10000">
+        <log idref="posterior"/>
+        <log id="ESS.0" spec="util.ESS" arg="@posterior"/>
+        <log idref="likelihood"/>
+        <log idref="prior"/>
+    </logger>
+
+    <logger id="treelog.t:cluster11" fileName="$(tree).trees" logEvery="10000" mode="tree">
+        <log id="TreeWithMetaDataLogger.t:cluster11" spec="beast.evolution.tree.TreeWithMetaDataLogger" branchratemodel="@RelaxedClock.c:cluster11" tree="@Tree.t:cluster11"/>
+    </logger>
+
+</run>
+
+</beast>
