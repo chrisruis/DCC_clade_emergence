@@ -17,4 +17,4 @@ DCC1_phylogeography_sample1.xml - asymmetric phylogeography with over-represente
 
 mutational_spectra - counts of context-specific mutations used in mutational spectrum analyses. non_DCC_internal_spectrum.csv is the mutation counts for the non-DCC internal branches. DCC_internal_spectrum.csv is the mutation counts for the DCC internal branches. within_CF_patient_spectrum.csv is the mutation counts for within CF patient mutations
 
-sequence_metadata.csv contains metadata for all sequences included in the study
+sequence_metadata.xlsx contains metadata for all sequences included in the study
