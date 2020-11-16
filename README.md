@@ -1,2 +1,2 @@
 # DCC_clade_emergence
-Scripts used in DCC clade emergence manuscript
+Data and scripts used in DCC clade emergence manuscript
