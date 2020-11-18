@@ -1,6 +1,8 @@
 # DCC_clade_emergence
 Data and scripts used in DCC clade emergence manuscript
 
+Repository DOI: [![DOI](https://zenodo.org/badge/313015200.svg)](https://zenodo.org/badge/latestdoi/313015200)
+
 The data within the data folder are:
 alignments - contains alignments for each FastBAPS cluster. Named as subspecies_clusterNumber so abscessus_2.fasta is the alignment for abscessus subspecies FastBAPS cluster 2
 
