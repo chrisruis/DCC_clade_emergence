@@ -10,12 +10,16 @@ trees - phylogenetic trees for each FastBAPS cluster
 
 temporal_trees - BEAST MCC trees for each DCC
 
-BEAST_XMLs - XML files used in BEAST analyses. These files are as follows:
+BEAST_XMLs - XML files used in BEAST analyses. These files are:
 DCC1.xml - informed substitution rate prior from TempEst analysis, no phylogeography. Used to reconstruct temporal and population history
 DCC1_uniform.xml - uniform substitution rate prior between 10^-5 and 10^-9, no phylogeography
 DCC1_date_randomisation1.xml - dates randomised, uniform substitution rate prior. Used for date randomisation test
 DCC1_phylogeography.xml - asymmetric phylogeography
-DCC1_phylogeography_sample1.xml - asymmetric phylogeography with over-represented continents downsampled
+DCC1_phylogeography_sample1.xml - asymmetric phylogeography with over-represented continents downsampled. 5 subsamples from each of DCC1, DCC2 and DCC3
+
+BEAST_log_files - output log files from BEAST for DCC phylogeography runs. These files are:
+DCC1_phylogeography.log - asymmetric phylogeography
+DCC1_phylogeography_sample1.log - asymmetric phylogeography with over-represented continents downsampled. 5 subsamples from each of DCC1, DCC2 and DCC3
 
 mutational_spectra - counts of context-specific mutations used in mutational spectrum analyses. non_DCC_internal_spectrum.csv is the mutation counts for the non-DCC internal branches. DCC_internal_spectrum.csv is the mutation counts for the DCC internal branches. within_CF_patient_spectrum.csv is the mutation counts for within CF patient mutations
 
