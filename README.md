@@ -17,7 +17,10 @@ DCC1_date_randomisation1.xml - dates randomised, uniform substitution rate prior
 DCC1_phylogeography.xml - asymmetric phylogeography
 DCC1_phylogeography_sample1.xml - asymmetric phylogeography with over-represented continents downsampled. 5 subsamples from each of DCC1, DCC2 and DCC3
 
-BEAST_log_files - output log files from BEAST for DCC phylogeography runs. These files are:
+BEAST_log_files - output log files from BEAST for DCC phylogeography runs. All are combined from at least 3 independent runs and have had burnin removed so all states in these files were used in analyses. These files are:
+DCC1.log - informed substitution rate prior from TempEst analysis, no phylogeography. Used to reconstruct temporal and population history
+DCC1_uniform.log - uniform substitution rate prior between 10^-5 and 10^-9, no phylogeography
+DCC1_date_randomisation1.log - dates randomised, uniform substitution rate prior. Used for date randomisation test
 DCC1_phylogeography.log - asymmetric phylogeography
 DCC1_phylogeography_sample1.log - asymmetric phylogeography with over-represented continents downsampled. 5 subsamples from each of DCC1, DCC2 and DCC3
 
