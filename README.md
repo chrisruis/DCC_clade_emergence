@@ -22,6 +22,8 @@ DCC1_phylogeography_sample1.xml - asymmetric phylogeography with over-represente
 
 clade_age_versus_continents - all of the clades in the DCC phylogeographic trees with their age and number of descendent continents
 
+DCC_Bayesian_skyline_plots - Bayesian skyline plot estimates of relative genetic diversity through time for each DCC
+
 DCC_expansion_distributions - first expansion dates in each tree in the posterior distribution for each DCC
 
 mutational_spectra - counts of context-specific mutations used in mutational spectrum analyses. non_DCC_internal_spectrum.csv is the mutation counts for the non-DCC internal branches. DCC_internal_spectrum.csv is the mutation counts for the DCC internal branches. within_CF_patient_spectrum.csv is the mutation counts for within CF patient mutations. signature_proportions.xlsx contains the proportion of mutations assigned to each mutational signature by signal for each dataset
